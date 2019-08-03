@@ -1,7 +1,7 @@
 
 # GitXplore - Search
 
-![alt tag](https://miro.medium.com/max/675/1*EBqtxM1oHQafsASFoYlq5g.gif)
+![alt tag](https://github.com/my-personal-project-work/GitXplore-Search/blob/master/public/gitXplore.gif)
 
 Here is th medium publication which will you walk you through the steps involved in creation of application.
 
